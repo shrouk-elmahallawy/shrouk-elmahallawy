@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shrouk El-Mahalawy
+# 👋 Hi, I'm Shrouk El-Mahallawy
 
 ## 👩‍💻 About Me
 
@@ -15,25 +15,13 @@
 ### 🐍 Programming & Data
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white\&style=for-the-badge)
-
-### 🗄️ SQL & Databases
-
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql\&logoColor=white\&style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver\&logoColor=white\&style=for-the-badge)
-
-### 💻 Other Languages
-
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B\&logoColor=white\&style=for-the-badge)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp\&logoColor=white\&style=for-the-badge)
-
-### 🔧 Tools
-
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git\&logoColor=white\&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github\&logoColor=white\&style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver\&logoColor=white\&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visual-studio-code\&logoColor=white\&style=for-the-badge)
-
-
-
 
 ## 🎯 Goals
 
@@ -43,8 +31,6 @@
 * Apply statistical concepts to real datasets
 * Build a strong **Data Analysis portfolio**
 * Continue developing my **Machine Learning & AI** skills
-
-
 
 ## ✨ Fun Fact
 
