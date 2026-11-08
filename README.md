@@ -36,7 +36,3 @@
 * Apply statistical concepts to real datasets
 * Build a strong **Data Analysis portfolio**
 * Continue developing my **Machine Learning & AI** skills
-
-## ✨ Fun Fact
-
-I enjoy combining **logic, data, and creativity** to solve problems and build useful things. 🎭💻📊
